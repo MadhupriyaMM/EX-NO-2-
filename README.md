@@ -86,6 +86,7 @@ int main()
 
 
 Output:
+
 <img width="501" height="240" alt="Screenshot 2026-10-29 083856" src="https://github.com/user-attachments/assets/c28920db-0579-4b45-bb37-229fe216b283" />
 
 RESULT:
